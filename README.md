@@ -19,4 +19,4 @@ Machine learning is an application of artificial intelligence (AI) that provides
 > Models <br>
 ![Models](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c3e1bc5f-b40a-4479-9833-61199182897b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200830%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200830T121229Z&X-Amz-Expires=86400&X-Amz-Signature=99a27b7500e85c754ca14a1e4279c49a80d494b4f4dd5a7aa768a42f46f2819d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-- **Reinforcement Learning ()**
+- **Reinforcement Learning (Teach a machine where it made mistake.)**
